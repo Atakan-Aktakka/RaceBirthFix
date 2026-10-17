@@ -4,7 +4,7 @@
 
 Fixes the campaign crash that happens on a child's birthday when the mother is human and the father has been turned into a White Walker or a wight.
 
-[**⬇ Download the latest release**](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest)
+[**⬇ Download from GitHub Releases**](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest) · [**Nexus Mods page**](https://www.nexusmods.com/mountandblade2bannerlord/mods/14078)
 
 *[Türkçe açıklama aşağıda / Turkish below](#türkçe)*
 
@@ -49,7 +49,7 @@ The mod does **not** write anything into your save. You can add it to a campaign
 ## Installation
 
 1. Install [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006) if you don't already have it. ROT needs it too.
-2. Download `RaceBirthFix-v1.0.0.zip` from [Releases](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest).
+2. Download `RaceBirthFix-v1.0.0.zip` from [Releases](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest) or from [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/14078).
 3. Extract it into `Mount & Blade II Bannerlord/Modules/`. You should end up with `Modules/RaceBirthFix/SubModule.xml`.
 4. Enable **Race Birth Fix** in the launcher. Load order does not matter as long as it comes after Harmony.
 5. Load your save and let time pass. When the birth happens, the yellow `[RaceBirthFix]` message appears and the game keeps running.
@@ -113,7 +113,7 @@ Hamilelik kayıt dosyasında tutulduğu için dönüşümden sonra alınan **bü
 ### Kurulum
 
 1. [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006) kurulu olmalı. ROT için zaten gerekli.
-2. [Releases](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest) sayfasından `RaceBirthFix-v1.0.0.zip` dosyasını indir.
+2. [Releases](https://github.com/Atakan-Aktakka/RaceBirthFix/releases/latest) ya da [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/14078) sayfasından `RaceBirthFix-v1.0.0.zip` dosyasını indir.
 3. Zip'i `Mount & Blade II Bannerlord/Modules/` klasörüne aç.
 4. Launcher'da **Race Birth Fix**'i etkinleştir.
 5. Kaydını yükle ve zamanı ilerlet. Doğumda sarı mesajı görürsen sorun çözülmüş demektir.
