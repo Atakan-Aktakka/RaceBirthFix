@@ -1,0 +1,7 @@
+src/obj/
+src/bin/
+bin/
+*.zip
+RaceBirthFix_log.txt
+.vs/
+*.user

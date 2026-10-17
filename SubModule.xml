@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Race Birth Fix"/>
+  <Id value="RaceBirthFix"/>
+  <Version value="v1.0.0"/>
+  <DefaultModule value="false"/>
+  <ModuleCategory value="Singleplayer"/>
+  <ModuleType value="Community"/>
+  <Url value="https://github.com/Atakan-Aktakka/RaceBirthFix"/>
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.4.2" Optional="false"/>
+  </DependedModules>
+  <ModulesToLoadAfterThis/>
+  <SubModules>
+    <SubModule>
+      <Name value="RaceBirthFix"/>
+      <DLLName value="RaceBirthFix.dll"/>
+      <SubModuleClassType value="RaceBirthFix.SubModule"/>
+      <Tags/>
+    </SubModule>
+  </SubModules>
+  <Xmls/>
+</Module>
